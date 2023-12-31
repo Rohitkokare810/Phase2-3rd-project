@@ -1,0 +1,10 @@
+1.Created new project in visual studio with ASP.net.
+2.Choosen option Web API while creating project.
+3.In modules created new cs(Student.cs) file to write properties.
+4.Created web api ef controller choosen option student.
+5.In Web.config file changed data source link added ssms connection and database name.
+6.Successfully runned the project with no errors and tested get post delete in fiddler.
+7.Added data using fiddle put.
+8.checked for data availability in ssms and web.
+9.uploaded project in github repository.
+10.repository link is:-
